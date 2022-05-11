@@ -74,5 +74,9 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=03cffc)&nbsp;
  
 <hr>
-
+    
+<p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achyut21)](https://github.com/anuraghazra/github-readme-stats)>
+ </p> 
+    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achyut21&themes=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
