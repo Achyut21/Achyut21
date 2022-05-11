@@ -75,8 +75,27 @@ Here are some ideas to get you started:
  
 <hr>
     
-<p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achyut21)](https://github.com/anuraghazra/github-readme-stats)>
- </p> 
     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achyut21&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achyut21&themes=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+  
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Achyut21&theme=chartreuse-dark"></p>
+  
+
+    
+<hr>
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bomkar-ghongade%7D/count.svg" alt="visitor badge"/></p>
+
+<hr>
+    
+### :link: &nbsp;Connect with me
+    
+<p align="center">
+<a target="blank" href="https://github.com/Achyut21"><img src="https://img.shields.io/badge/-AchyutKatiyar.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a target="blank" href="https://www.linkedin.com/in/achyutkatiyar2103/"><img src="https://img.shields.io/badge/-Achyut%20Katiyar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a target="blank" href="mailto:achyutkatiyar21@gmail.com"><img src="https://img.shields.io/badge/-achyutkatiyar21@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+
