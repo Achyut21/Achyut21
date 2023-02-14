@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <hr>
-<h3>App Developer | Native Android Developer | UI/UX Designer  </h3>
+<h3>Software Developer | Android and Web Developer | UI/UX Designer  </h3>
 <hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me !*** 
