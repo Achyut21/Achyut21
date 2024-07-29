@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <hr>
-<h3>Software Developer | MERN Stack Developer | UI/UX Designer  </h3>
+<h3>Software Developer | Full Stack Developer | UI/UX Designer  </h3>
 <hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me !*** 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p>
   <em>
     Hello, I am Achyut Katiyar an <b>undergraduate student</b> from <a target="blank" href="https://srmap.edu.in/"> <b>SRM University AP</b>, Andhra Pradesh</a>. <br>
-    Being an <b>App Developer</b>, I like to develop awesome apps that can solve real world issues. Along with this, I am also familiar with <b>backend services</b> and provide database related assistance to several projects. 
+    Being an <b>Full Stack Developer</b>, I like to develop awesome apps that can solve real world issues. Along with this, I am also familiar with <b>backend services</b> and provide database related assistance to several projects. 
   <em>
 <p>
   
