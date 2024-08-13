@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
-- 🔭 I’m currently working on developing apps using flutter and native apps using Android Studio.
+- 🔭 I’m currently working on developing full stacks projects.
 
 - 🌱 I’m interested in designing UI/UX for apps which I can implement in development phase.
 
