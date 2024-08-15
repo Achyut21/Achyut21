@@ -40,11 +40,11 @@ Here are some ideas to get you started:
  
 - 🔭 I’m currently working on developing full stacks projects.
 
-- 🌱 I’m interested in designing UI/UX for apps which I can implement in development phase.
+- 🌱 I’m interested in designing UI/UX for websites which I can implement in development phase.
 
 - 👯 I’m looking to collaborate with people of similar mind and work on some projects. 
 
-- 💬 Ask me anything about Android, Data Structures, Algorithms, Database, and Backend related stuff. 
+- 💬 Ask me anything about React, Next.js, Android, Data Structures, Algorithms, Database, and Backend related stuff. 
  
 - 😄 Pronouns: His/He
 <br>
