@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    Hello, I am Achyut Katiyar a <b>Graduate student in the Master's program in Computer Science at </b> from <a target="blank" href="https://srmap.edu.in/"> <b>Northeastern University</b>, Boston</a>. <br>
+    Hello, I am Achyut Katiyar a <b>Graduate student in the Master's program in Computer Science at </b> from <a target="blank" href="https://www.northeastern.edu/"> <b>Northeastern University</b>, Boston</a>. <br>
     Being an <b>Full Stack Developer</b>, I like to develop awesome apps that can solve real world issues. Along with this, I am also familiar with <b>backend services</b> and provide database related assistance to several projects. 
   <em>
 <p>
