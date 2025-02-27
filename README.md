@@ -82,13 +82,16 @@ Hello! I'm **Achyut Katiyar**, a passionate **Full Stack Developer**, **Blockcha
 ## Connect with Me
 
 <p align="center">
+  <!-- Website -->
   <a target="_blank" href="https://achyut-katiyar.vercel.app">
-    <img src="https://img.shields.io/badge/-AchyutKatiyar.me-blue?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/🌐%20AchyutKatiyar.me-lavender?style=for-the-badge" alt="Website" />
   </a>
+  <!-- LinkedIn -->
   <a target="_blank" href="https://www.linkedin.com/in/achyutkatiyar2103/">
-    <img src="https://img.shields.io/badge/-Achyut%20Katiyar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <!-- Email -->
   <a target="_blank" href="mailto:achyutkatiyar21@gmail.com">
-    <img src="https://img.shields.io/badge/-achyutkatiyar21@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
 </p>
