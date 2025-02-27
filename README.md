@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 ### :link: &nbsp;Connect with me
     
 <p align="center">
-<a target="blank" href="https://github.com/Achyut21"><img src="https://img.shields.io/badge/-https://achyut-katiyar.vercel.app/-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a target="blank" href="https://github.com/Achyut21"><img src="https://img.shields.io/badge/-https://achyut-katiyar.vercel.app-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a target="blank" href="https://www.linkedin.com/in/achyutkatiyar2103/"><img src="https://img.shields.io/badge/-Achyut%20Katiyar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a target="blank" href="mailto:achyutkatiyar21@gmail.com"><img src="https://img.shields.io/badge/-achyutkatiyar21@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
