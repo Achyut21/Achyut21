@@ -78,7 +78,7 @@ Hello! I'm **Achyut Katiyar**, a passionate **Full Stack Developer**, **Blockcha
 <p align="center">
   <!-- Website -->
   <a target="_blank" href="https://achyutkatiyar.com">
-    <img src="https://img.shields.io/badge/🌐%20AchyutKatiyar.me-lavender?style=for-the-badge" alt="Website" />
+    <img src="https://img.shields.io/badge/🌐%20AchyutKatiyar.com-lavender?style=for-the-badge" alt="Website" />
   </a>
   <!-- LinkedIn -->
   <a target="_blank" href="https://www.linkedin.com/in/achyutkatiyar2103/">
