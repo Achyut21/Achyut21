@@ -7,7 +7,7 @@
 
 ## About Me
 
-<img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" height="350" />
+<img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
 
 Hello! I'm **Achyut Katiyar**, a passionate **Full Stack Developer**, **Blockchain Enthusiast**, and **AI/ML Explorer**. Currently, I'm pursuing my Master's in Computer Science at [Northeastern University](https://www.northeastern.edu/) in Boston. I love building innovative solutions that tackle real-world problems and exploring emerging technologies across multiple domains.
 
