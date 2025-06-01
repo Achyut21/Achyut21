@@ -11,9 +11,9 @@
 
 Hello! I'm **Achyut Katiyar**, a passionate **Full Stack Developer**, **Blockchain Enthusiast**, and **AI/ML Explorer**. Currently, I'm pursuing my Master's in Computer Science at [Northeastern University](https://www.northeastern.edu/) in Boston. I love building innovative solutions that tackle real-world problems and exploring emerging technologies across multiple domains.
 
-- 🔭 I’m currently working on developing full stack projects.  
-- 🌱 I’m continuously learning new technologies in web development, blockchain, and artificial intelligence.  
-- 👯 I’m looking to collaborate with like-minded developers and researchers.  
+- 🔭 I'm currently working on developing full stack projects.  
+- 🌱 I'm continuously learning new technologies in web development, blockchain, and artificial intelligence.  
+- 👯 I'm looking to collaborate with like-minded developers and researchers.  
 - 💬 Ask me anything about React, Next.js, Node.js, Blockchain, AI, Data Structures, Algorithms, and more.  
 - 😄 Pronouns: His/He
 
@@ -61,6 +61,12 @@ Hello! I'm **Achyut Katiyar**, a passionate **Full Stack Developer**, **Blockcha
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikitlearn&logoColor=F7931A)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)
+
+## 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+</div>
 
 ## GitHub Stats
 
