@@ -131,9 +131,9 @@ Hello! I'm **Achyut Katiyar**, a passionate **Full Stack Developer**, **Blockcha
       <em>Building scalable web applications</em>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=solidity,ethereum" /><br>
-      <strong>Blockchain Development</strong><br>
-      <em>Smart contracts & DApps</em>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker" /><br>
+      <strong>Cloud Computing</strong><br>
+      <em>Infrastructure optimization & CI/CD</em>
     </td>
     <td align="center" width="200">
       <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /><br>
