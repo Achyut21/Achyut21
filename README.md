@@ -11,7 +11,7 @@
 
 Hello! I'm **Achyut Katiyar**, a passionate **Full Stack Developer**, **Blockchain Enthusiast**, and **AI/ML Explorer**. Currently, I'm pursuing my Master's in Computer Science at [Northeastern University](https://www.northeastern.edu/) in Boston. I love building innovative solutions that tackle real-world problems and exploring emerging technologies across multiple domains.
 
-🏆 **Hackathon Winner** with **$2,700+** in prizes across multiple competitions  
+🏆 **Hackathon Winner** with **$3000+** in prizes across multiple competitions  
 🚀 **Professional Developer** with experience building platforms for **3000+ users**  
 🎯 **Technical Leader** who has mentored **15+ developers** and boosted engagement by **40%**
 
