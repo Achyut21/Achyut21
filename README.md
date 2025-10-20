@@ -29,6 +29,7 @@ Hello! I'm **Achyut Katiyar**, a passionate **Full Stack Developer**, **Blockcha
 |:---|:---:|:---|
 | **Hacker House Goa 2024** | **$1,500** | 🥇 **Nillion & APTOS Track Winner** |
 | **Move it with Aptos** | **$600** | 🥇 **Okto Track Winner** |
+| **MIT HACKATHON** | **$500** | 🥇 **OPTIMUM Track Prize** |
 | **HACKSRM 5.0** | **$500** | 🥇 **Marbelism Prize** |
 | **APPATHON 2022** | **$100** | 🥇 **Winner** |
 
